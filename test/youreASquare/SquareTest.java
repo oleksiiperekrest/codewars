@@ -1,4 +1,4 @@
-package YoureASquare;
+package youreASquare;
 
 
 import org.junit.Test;
